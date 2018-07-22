@@ -4,7 +4,7 @@ from .models import Post
 
 from django.template.loader import get_template
 from datetime import datetime
-
+https://github.com/AmanKingdom/mblog.git
 def homepage(request):
     template=get_template('index.html')
 
